@@ -2320,7 +2320,7 @@
     "fileVersion": 4294967295,
     "fileSize": 182210,
     "url": "https://github.com/romasku/tuya-zigbee-switch/raw/37f72be3501cc5f691f857dfa6dc6e52a7c39e51/bin/router/SWITCH_HOMEETEC_TOUCH_TS0001/tlc_switch-1.1.3-ec57f81b-forced.zigbee",
-    "imageType": 43608,
+    "imageType": 54179,
     "manufacturerCode": 4417,
     "sha512": "4d560be462b499bc49eb4dcfcb569e944ffa61767f26a18df01d1c26bd6acf04099e02f392ce17af1b36cab02078574393cb5dc97ace07208008db5b92461d05",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
